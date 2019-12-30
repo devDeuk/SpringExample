@@ -21,7 +21,7 @@
 <hr>
 부트스트랩
 <br>
-1. 부트스트랩 첫 페이지  
+<a href="/resources/btstrap1.html">1. 부트스트랩 테스트 페이지 </a>  
 <br>
 
 2. 부트스트랩 게시판
