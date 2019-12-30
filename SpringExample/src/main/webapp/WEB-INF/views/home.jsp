@@ -24,7 +24,7 @@
 <a href="/resources/btstrap1.html">1. 부트스트랩 테스트 페이지 </a>  
 <br>
 
-2. 부트스트랩 게시판
+<a href="/resources/btstrapBBS.html">2. 부트스트랩 게시판</a>
 <br>
 
 3. 화면구성 
