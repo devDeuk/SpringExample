@@ -73,7 +73,11 @@ org.eclipse.jdt.core.compiler.problem.redundantSpecificationOfTypeArguments=igno
 org.eclipse.jdt.core.compiler.problem.redundantSuperinterface=ignore
 org.eclipse.jdt.core.compiler.problem.reportMethodCanBePotentiallyStatic=ignore
 org.eclipse.jdt.core.compiler.problem.reportMethodCanBeStatic=ignore
+<<<<<<< HEAD
 org.eclipse.jdt.core.compiler.problem.reportPreviewFeatures=ignore
+=======
+org.eclipse.jdt.core.compiler.problem.reportPreviewFeatures=warning
+>>>>>>> 45ddc740c42d7ab746fe631230c2a4a1fe5238e9
 org.eclipse.jdt.core.compiler.problem.specialParameterHidingField=disabled
 org.eclipse.jdt.core.compiler.problem.staticAccessReceiver=warning
 org.eclipse.jdt.core.compiler.problem.suppressOptionalErrors=disabled

@@ -10,6 +10,7 @@
 		</layout>
 	</appender>
 	
+	<!-- 특정 패키지 출력 설정 -->
 	<!-- Application Loggers -->
 	<logger name="com.dw.example">
 		<level value="info" />
@@ -32,6 +33,7 @@
 		<level value="info" />
 	</logger>
 
+	<!-- 기본 출력 설정 -->
 	<!-- Root Logger -->
 	<root>
 		<priority value="warn" />
